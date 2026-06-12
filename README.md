@@ -18,7 +18,7 @@ This is a simple Python calculator project created for the Module 8 Git & GitHub
 
 ## Project Structure
 ```text
-git-practice-yourname/
+git-practice-proallad/
 ├── README.md
 ├── .gitignore
 ├── src/
@@ -35,8 +35,8 @@ python src/main.py
 
 ## Example
 ```text
-Student: Your Name
-Today's date: 2026-01-01
+Student: Proallad
+Today's date: 2026-06-13
 10 + 5 = 15
 10 - 5 = 5
 10 * 5 = 50
