@@ -16,3 +16,6 @@ The calculator validates its inputs. If a non-numeric value is supplied, it rais
 - Python 3
 - Git
 - GitHub
+## Git Workflow
+
+This project demonstrates local Git initialization, multiple commits, feature branches, branch merging, and pushing code to a public GitHub repository.
