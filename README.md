@@ -41,3 +41,8 @@ Today's date: 2026-01-01
 10 - 5 = 5
 10 * 5 = 50
 ```
+## GitHub Repository
+
+Public repository link:
+
+https://github.com/proallad/git-practice-proallad
