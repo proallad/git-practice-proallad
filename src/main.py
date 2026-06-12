@@ -25,6 +25,8 @@ def main():
         print(f"{first_number} / {second_number} = {divide(first_number, second_number)}")
     except (TypeError, ValueError) as error:
         print(f"Calculation error: {error}")
+    finally:
+        print("Program finished.")
 
 
 if __name__ == "__main__":
