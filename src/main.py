@@ -2,7 +2,7 @@
 
 from datetime import date
 
-from utils import add, multiply, subtract
+from utils import add, divide, multiply, subtract
 
 
 STUDENT_NAME = "Proallad"
@@ -20,7 +20,8 @@ def main():
         print(f"{first_number} + {second_number} = {add(first_number, second_number)}")
         print(f"{first_number} - {second_number} = {subtract(first_number, second_number)}")
         print(f"{first_number} * {second_number} = {multiply(first_number, second_number)}")
-    except TypeError as error:
+        print(f"{first_number} / {second_number} = {divide(first_number, second_number)}")
+    except (TypeError, ValueError) as error:
         print(f"Calculation error: {error}")
 
 
