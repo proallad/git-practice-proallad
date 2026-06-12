@@ -1,8 +1,8 @@
 # Git Practice Project
 
 ## Student Information
-- **Full Name:** Proallad
-- **GitHub Username:** your-github-username
+- **Full Name:** Proallad Chandra Day
+- **GitHub Username:** proallad
 
 ## Project Description
 This is a simple Python calculator project created for the Module 8 Git & GitHub Practical Assignment.
